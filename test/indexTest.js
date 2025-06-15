@@ -20,3 +20,6 @@ describe('index.js', function () {
     });
   });
 });
+
+
+// Petit changement pour forcer Git à prendre en compte ce fichier

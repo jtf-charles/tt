@@ -18,3 +18,4 @@ const src = babelResult.code
 jsdom({
   html, src
 });
+// Petit changement pour forcer Git à prendre en compte ce fichier
